@@ -7,3 +7,4 @@ db.sqlite3
 .DS_Store
 notes on mysite.txt
 /hints/*
+/blog/templates/blog/post_list_orig.html

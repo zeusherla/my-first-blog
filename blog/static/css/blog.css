@@ -15,6 +15,7 @@
 }
 
 h1 {
+    color: #000000; 
     font-family: 'Anton', sans-serif;
 }
 
@@ -46,7 +47,8 @@ h2 {
     margin-bottom: 70px;
 }
 
-.post h2 a, .post h2 a:visited {
+.post h1 a, .post h1 a:visited {
+    color: #000000;
     color: #000000;
 }
 
